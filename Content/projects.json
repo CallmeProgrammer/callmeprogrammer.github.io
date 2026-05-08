@@ -34,15 +34,9 @@
   {
   "title": "Interactive Feedback Board - Infinite Workspace",
   "image": "Assets/InteractiveFeedbackBoard.png",
-  "description": "An interactive productivity and collaboration board inspired by modern workspace tools like Miro and FigJam. Users can create draggable and resizable notes, todo lists, image cards, and descriptive moodboards anywhere on an infinite canvas. The application supports event bubbling/capturing, smooth UI interactions, auto-arrange masonry layouts, save/load board persistence using LocalStorage, image uploads from device or URL, and responsive workspace management with a modern glassmorphism interface.",
+  "description": "An interactive productivity and collaboration board. Users can create draggable and resizable notes, todo lists, image cards, and descriptive moodboards anywhere on an infinite canvas. Smooth UI interactions, auto-arrange masonry layouts, save/load board persistence using LocalStorage, image uploads from device or URL, and responsive workspace management with a modern glassmorphism interface.",
   "role": "Full Stack Developer",
-  "tech": [
-    "HTML5",
-    "CSS3",
-    "JavaScript",
-    "LocalStorage API",
-    "Font Awesome"
-  ],
+  "tech": ["HTML5",  "CSS3", "JavaScript", "LocalStorage API", "Font Awesome"],
    "preview": "https://callmeprogrammer.github.io/Re-FlexShoppingWebsite/"
 }
 ]
