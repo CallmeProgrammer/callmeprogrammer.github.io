@@ -31,7 +31,7 @@
   "tech": ["HTML5", "CSS3", "JavaScript", "Node.js", "Express.js", "Socket.IO", "Vercel", "Render"],
   "preview": "https://chat-app-eight-peach-83.vercel.app/"
   },
-  {
+    {
   "title": "Interactive Feedback Board - Infinite Workspace",
   "image": "Assets/InteractiveFeedbackBoard.png",
   "description": "An interactive productivity and collaboration board. Users can create draggable and resizable notes, todo lists, image cards, and descriptive moodboards anywhere on an infinite canvas. Smooth UI interactions, auto-arrange masonry layouts, save/load board, image uploads from device or URL, and responsive workspace management with a modern glassmorphism interface.",
@@ -39,6 +39,7 @@
   "tech": ["HTML5",  "CSS3", "JavaScript", "LocalStorage API", "Font Awesome"],
    "preview": "https://callmeprogrammer.github.io/feedback-board/"
 }
+
 ]
 
 
